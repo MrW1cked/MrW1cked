@@ -7,7 +7,7 @@
 
     Hi! 👋
     My name is Nuno Sousa, aka Mr.Wicked and i'm 31 years old!
-    I like programming in Java, VBA and Excel (seriouly, i can do crazy things in Excel)
+    I'm a BackEnd Developer.
     When i am not programming, doing the dishes or paying bills i like to be a Princess at my daugther's Castle.
 
     For an addicional contact please email me at: 📫 nunofvsousa@gmail.com
