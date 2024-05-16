@@ -18,5 +18,3 @@
 
     while True:
         print("Programming...")
-
-<iframe src="https://previews.customer.envatousercontent.com/files/284246327/index.html" allowfullscreen></iframe>
