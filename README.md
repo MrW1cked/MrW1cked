@@ -1,20 +1,25 @@
 
-    #from life import time
-    #from daughter import love
-    #from wife import bills
-    #from kitchen import dirty_dishes
-    #from aliexpress import cheap_gadgets
+```java
+# from life import time
+# from daughter import love
+# from wife import bills
+# from kitchen import dirty_dishes
+# from aliexpress import cheap_gadgets
+```
 
-    Hi! 👋
-    My name is Nuno Sousa, aka Mr.Wicked and i'm 31 years old!
-    I'm a Backend Developer.
-    When i am not programming, doing the dishes or paying bills i like to be a Princess at my daugther's Castle.
+Hi! 👋  
+My name is **<span style="color:#00bfff;">Nuno Sousa</span>**, aka **<span style="color:#8b008b;">Mr.Wicked</span>** and I'm **<span style="color:#ff4500;">31</span>** years old!  
+I'm a **<span style="color:#7cfc00;">Backend Developer</span>**.  
+When I am not programming, doing the dishes, or paying bills, I like to be a **<span style="color:#ff69b4;">Princess</span>** at my daughter's Castle.
 
-    For an addicional contact please email me at: 📫 nunofvsousa@gmail.com
-    
-    Please Do Not Disturb... all todays bills are paid... all Dishes are clean... and my daughter is asleep... 💞️
+For additional contact, please email me at: 📫 **<span style="color:#1e90ff;">nunofvsousa@gmail.com</span>**
 
-    ZZZZzzzzzZzzZ
+Please Do Not Disturb... all today's bills are paid... all dishes are clean... and my daughter is asleep... 💞️
 
-    while True:
-        print("Programming...")
+**ZZZZzzzzzZzzZ**
+
+```java
+while (true) {
+    System.out.println("Programming...");
+}
+```
