@@ -8,7 +8,7 @@
 ```
 
 Hi! 👋  
-My name is **<span style="color:#00bfff;">Nuno Sousa</span>**, aka **<span style="color:#8b008b;">Mr.Wicked</span>** and I'm **<span style="color:#ff4500;">31</span>** years old!  
+My name is **<span style="color:#00bfff;">Nuno Sousa</span>**, aka **<span style="color:#8b008b;">Mr.Wicked</span>** and I'm **<span style="color:#ff4500;">32</span>** years old!  
 I'm a **<span style="color:#7cfc00;">Backend Developer</span>**.  
 When I am not programming, doing the dishes, or paying bills, I like to be a **<span style="color:#ff69b4;">Princess</span>** at my daughter's Castle.
 
